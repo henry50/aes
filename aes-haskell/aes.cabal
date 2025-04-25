@@ -6,14 +6,13 @@ cabal-version: 1.12
 
 name:           aes
 version:        1.0
-description:    Please see the README on GitHub at <https://github.com/henry50/aes-haskell#readme>
-homepage:       https://github.com/henry50/aes-haskell#readme
-bug-reports:    https://github.com/henry50/aes-haskell/issues
+description:    Please see the README on GitHub at <https://github.com/henry50/aes/blob/main/aes-haskell/README.md>
+homepage:       https://github.com/henry50/aes#readme
+bug-reports:    https://github.com/henry50/aes/issues
 author:         Henry Lunn
 maintainer:     example@example.com
 copyright:      2022 Henry Lunn
 license:        MIT
-license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
     README.md
@@ -21,7 +20,8 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/henry50/aes-haskell
+  location: https://github.com/henry50/aes
+  subdir: aes-haskell
 
 library
   exposed-modules:

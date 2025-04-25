@@ -1,6 +1,6 @@
 name:                aes
 version:             1.0
-github:              "henry50/aes-haskell"
+github:              "henry50/aes/aes-haskell"
 license:             MIT
 author:              "Henry Lunn"
 maintainer:          "example@example.com"
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/henry50/aes-haskell#readme>
+description:         Please see the README on GitHub at <https://github.com/henry50/aes/blob/main/aes-haskell/README.md>
 
 dependencies:
 - base >= 4.7 && < 5
