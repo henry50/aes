@@ -83,4 +83,7 @@ end Example;
 ```
 
 ## Build and test
-Clone the repository and run either `gnatmake -D build main.adb` or `gprbuild`. To run the tests, run `./build/main` for Linux/Mac or `.\build\main.exe` for Windows.
+1. `cd aes-ada`
+2. `mkdir build`
+3. Either `gprbuild` or `gnatmake -D build -o build/main main.adb`
+4. `./build/main` or `.\build\main.exe` for Windows
