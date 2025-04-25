@@ -4,4 +4,4 @@ The Advanced Encryption Standard (AES) implemented in C.\
 
 **This implementation is not cryptographically secure.**
 ## Usage
-Clone the repository, then run `make`. Run the program with `./aes`.
+Build with `make`. Run the program with `./aes`.

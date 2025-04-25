@@ -2,6 +2,7 @@
 build/
 .stack-work/
 target/
+aes-c/aes
 *.exe
 *.pdf
 *~
