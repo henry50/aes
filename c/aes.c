@@ -4,7 +4,6 @@
 #include <string.h>
 #include <stddef.h>
 #include "aes.h"
-#include "util.h"
 #include "const.c"
 
 int main(){
