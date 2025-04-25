@@ -1,7 +1,7 @@
 .vscode/
 build/
+.stack-work/
 *.exe
 *.pdf
-.stack-work/
 *~
-NIST.FIPS.197.pdf
+aes-rust
