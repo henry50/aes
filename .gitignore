@@ -1,7 +1,7 @@
 .vscode/
 build/
 .stack-work/
+target/
 *.exe
 *.pdf
 *~
-aes-rust
