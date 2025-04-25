@@ -31,3 +31,6 @@ which should give `3925841d02dc09fbdc118597196a0b32`. To decrypt this, run
 stack run -- -k "2b7e151628aed2a6abf7158809cf4f3c" -r "3925841d02dc09fbdc118597196a0b32" -d
 ```
 which should give back the original.
+
+### Testing
+Run `stack test` to perform the NIST FIPS 197 Appendix tests.
